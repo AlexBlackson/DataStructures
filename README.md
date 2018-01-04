@@ -1,4 +1,4 @@
-# DataStructures
+# Data Structures
 Projects written in Java created for my Data Structures Course
 
 # Assignment 1 
